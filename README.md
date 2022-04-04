@@ -21,7 +21,8 @@ Directories
 ## Deployed Project
 Repo
 * [Kevin Friday's Portfolio](https://drkevinfriday.github.io/Kevins_Portfolio/)
- Full Page
+
+## Full Page
 ![Kevin Friday's Portfolio](./assets/images/KevinsPortfolio.png)
 
 ## License
